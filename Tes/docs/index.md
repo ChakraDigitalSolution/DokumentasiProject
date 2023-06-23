@@ -1,4 +1,4 @@
-# Homepage
+# Template dan Dokumentasi
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
